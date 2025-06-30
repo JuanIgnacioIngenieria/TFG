@@ -1,0 +1,999 @@
+[
+    {
+      "id": 1,
+      "nombre": "Curl bíceps goma",
+      "tipo": "Brazo",
+      "dificultad": "Baja",
+      "requiereMaterial": "Gomas",
+      "imagen": "Curl_biceps_gomas.png",
+      "clasificacion": "1",
+      "numdificultad" : "0.5",
+      "descripcion" : "Pisa una banda elástica con ambos pies y sujeta los extremos con las manos. Mantén los codos pegados al cuerpo y flexiona los brazos llevando las manos hacia los hombros. Controla la bajada para mayor efectividad. Ideal para tonificar los bíceps sin necesidad de peso libre"
+    },
+
+    {
+      "id": 2,
+      "nombre": "Curl bíceps peso",
+      "tipo": "Brazo",
+      "dificultad": "Baja",
+      "requiereMaterial": "Peso",
+      "imagen": "Curl_biceps.png",
+      "clasificacion": "1",
+      "numdificultad" : "1",
+      "descripcion" : "De pie, con una mancuerna en cada mano y los brazos extendidos, flexiona los codos para subir el peso hasta los hombros. Mantén los codos quietos. Es un clásico para ganar fuerza y volumen en los brazos."
+    },
+    {
+      "id": 3,
+      "nombre": "Curl bíceps martillo goma",
+      "tipo": "Brazo",
+      "dificultad": "Media",
+      "requiereMaterial": "Gomas",
+      "imagen": "Curl_martillo_gomas.png",
+      "clasificacion": "2",
+      "numdificultad" : "2",
+      "descripcion" : "Pisa la goma elástica y sujeta los extremos con las palmas enfrentadas (agarre neutro). Flexiona los codos manteniendo ese agarre. Esta variante trabaja tanto el bíceps como parte del antebrazo."
+
+    },
+    {
+        "id": 4,
+        "nombre": "Curl bíceps martillo peso",
+        "tipo": "Brazo",
+        "dificultad": "Media",
+        "requiereMaterial": "Peso",
+        "imagen": "Curl_martillo.png",
+        "clasificacion": "2",
+        "numdificultad" : "2.5",
+        "descripcion" : "Con una mancuerna en cada mano y agarre neutro (palmas enfrentadas), eleva el peso doblando los codos sin mover los brazos. Excelente para fortalecer tanto el bíceps como el antebrazo."
+        
+    },
+    {
+        "id": 5,
+        "nombre": "Curl bíceps adelantado goma",
+        "tipo": "Brazo",
+        "dificultad": "Media",
+        "requiereMaterial": "Gomas",
+        "imagen": "Curl_biceps_adelantado_goma.png",
+        "clasificacion": "3",
+        "numdificultad" : "2",
+        "descripcion" : "Pisa la banda elástica, adelanta ligeramente los brazos frente al cuerpo y realiza el curl desde esa posición. Este cambio de ángulo añade tensión continua al bíceps y mayor aislamiento muscular."
+        
+    },
+    {
+        "id": 6,
+        "nombre": "Curl bíceps adelantado peso",
+        "tipo": "Brazo",
+        "dificultad": "Media",
+        "requiereMaterial": "Peso",
+        "imagen": "Curl_biceps_adelantado_peso.png",
+        "clasificacion": "3",
+        "numdificultad" : "2.5",
+        "descripcion" : "Similar al curl tradicional, pero comienza con los brazos ligeramente adelantados al tronco. Eleva el peso controladamente. Aumenta la intensidad sobre el bíceps al cambiar la palanca del movimiento."
+        
+    },
+    {
+        "id": 7,
+        "nombre": "Extensión tríceps goma",
+        "tipo": "Brazo",
+        "dificultad": "Media",
+        "requiereMaterial": "Gomas",
+        "imagen": "Extension_triceps.png",
+        "clasificacion": "4",
+        "numdificultad" : "2.5",
+        "descripcion" : "Sujeta la goma en una posicion elevada, despues agarrala con ambas o una mano y con los codos pegados al cuerpo, realiza una extensión hacia abajo hasta dejar el brazo totalmente recto."
+        
+    },
+    {
+        "id": 8,
+        "nombre": "Extensión tríceps cabeza larga goma",
+        "tipo": "Brazo",
+        "dificultad": "Media",
+        "requiereMaterial": "Gomas",
+        "imagen": "Extension_triceps_cabeza_larga.png",
+        "clasificacion": "5",
+        "numdificultad" : "3",
+        "descripcion" : "Desde una posición estable, sujeta la goma por detrás de la cabeza y extiende los brazos completamente. Es un movimiento centrado en estirar y fortalecer el tríceps desde un ángulo profundo"
+        
+    },
+    {
+        "id": 9,
+        "nombre": "Fondos tríceps",
+        "tipo": "Brazo",
+        "dificultad": "Media",
+        "requiereMaterial": "Ninguno",
+        "imagen": "Fondos_triceps.png",
+        "clasificacion": "6",
+        "numdificultad" : "2.5",
+        "descripcion" : "Apoya las manos en una superficie estable (como una silla), estira las piernas hacia delante y baja el cuerpo flexionando los codos. Luego empuja para volver arriba. Muy efectivo para fortalecer el tríceps con tu propio peso"
+        
+    },
+    {
+        "id": 10,
+        "nombre": "Flexión tríceps",
+        "tipo": "Brazo",
+        "dificultad": "Media",
+        "requiereMaterial": "Ninguno",
+        "imagen": "Flexion_triceps.png",
+        "clasificacion": "7",
+        "numdificultad" : "2.5",
+        "descripcion" : " Realiza una flexión clásica, pero con las manos más juntas (justo debajo del pecho). Al bajar, mantén los codos pegados al cuerpo. Esta variante activa intensamente los tríceps, además del pecho y hombros."
+        
+    },
+
+
+
+
+
+
+
+
+    {
+        "id": 11,
+        "nombre": "Curl de muñeca con mancuernas goma (palmas arriba)",
+        "tipo": "Antebrazo",
+        "dificultad": "Baja",
+        "requiereMaterial": "Gomas",
+        "imagen": "Antebrazo_goma_palma_arriba.png",
+        "clasificacion": "8",
+        "numdificultad" : "1",
+        "descripcion" : "Hola"
+        
+    },
+    {
+        "id": 12,
+        "nombre": "Curl de muñeca con mancuernas peso (palmas arriba)",
+        "tipo": "Antebrazo",
+        "dificultad": "Baja",
+        "requiereMaterial": "Peso",
+        "imagen": "Antebrazo_peso_palma_arriba.png",
+        "clasificacion": "8",
+        "numdificultad" : "1.5",
+        "descripcion" : "Hola"
+        
+    },
+    {
+        "id": 13,
+        "nombre": "Curl de muñeca invertido goma (palmas abajo)",
+        "tipo": "Antebrazo",
+        "dificultad": "Baja",
+        "requiereMaterial": "Gomas",
+        "imagen": "Antebrazo_goma_palma_abajo.png",
+        "clasificacion": "9",
+        "numdificultad" : "1",
+        "descripcion" : "Hola"
+
+        
+    },
+    {
+        "id": 14,
+        "nombre": "Curl de muñeca invertido peso (palmas abajo)",
+        "tipo": "Antebrazo",
+        "dificultad": "Baja",
+        "requiereMaterial": "Peso",
+        "imagen": "Antebrazo_peso_palma_abajo.png",
+        "clasificacion": "9",
+        "numdificultad" : "1.5",
+        "descripcion" : "Hola"
+        
+    },
+    {
+        "id": 15,
+        "nombre": "Rotacion muñeca",
+        "tipo": "Antebrazo",
+        "dificultad": "Media",
+        "requiereMaterial": "Peso",
+        "imagen": "Rotacion_muñeca.png",
+        "clasificacion": "10",
+        "numdificultad" : "2.5",
+        "descripcion" : "Hola"
+        
+    },
+
+
+
+
+
+
+
+    {
+        "id": 16,
+        "nombre": "Elevaciones laterales goma",
+        "tipo": "Hombro",
+        "dificultad": "Baja",
+        "requiereMaterial": "Gomas",
+        "imagen": "Elevaciones_laterales_goma.png",
+        "clasificacion": "11",
+        "numdificultad" : "1.5",
+        "descripcion" : "Hola"
+        
+    },
+    {
+        "id": 17,
+        "nombre": "Elevaciones laterales peso",
+        "tipo": "Hombro",
+        "dificultad": "Media",
+        "requiereMaterial": "Peso",
+        "imagen": "Elevaciones_laterales_peso.png",
+        "clasificacion": "11",
+        "numdificultad" : "2.5",
+        "descripcion" : "Hola"
+        
+    },
+
+    {
+        "id": 18,
+        "nombre": "Elevaciones frontales goma",
+        "tipo": "Hombro",
+        "dificultad": "Baja",
+        "requiereMaterial": "Gomas",
+        "imagen": "Elevaciones_frontales_goma.png",
+        "clasificacion": "12",
+        "numdificultad" : "1.5",
+        "descripcion" : "Hola"
+        
+    },
+    {
+        "id": 19,
+        "nombre": "Elevaciones frontales peso",
+        "tipo": "Hombro",
+        "dificultad": "Media",
+        "requiereMaterial": "Peso",
+        "imagen": "Elevaciones_frontales_peso.png",
+        "clasificacion": "12",
+        "numdificultad" : "2.5",
+        "descripcion" : "Hola"
+        
+    },
+    {
+        "id": 20,
+        "nombre": "Elevaciones posteriores goma",
+        "tipo": "Hombro",
+        "dificultad": "Baja",
+        "requiereMaterial": "Gomas",
+        "imagen": "Elevaciones_posteriores_goma.png",
+        "clasificacion": "13",
+        "numdificultad" : "1.5",
+        "descripcion" : "Hola"
+        
+    },
+    {
+        "id": 21,
+        "nombre": "Elevaciones posteriores peso",
+        "tipo": "Hombro",
+        "dificultad": "Media",
+        "requiereMaterial": "Peso",
+        "imagen": "Elevaciones_posteriores_peso.png",
+        "clasificacion": "13",
+        "numdificultad" : "2.5",
+        "descripcion" : "Hola"
+        
+    },
+
+    {
+        "id": 22,
+        "nombre": "Face pull goma",
+        "tipo": "Hombro",
+        "dificultad": "Media",
+        "requiereMaterial": "Gomas",
+        "imagen": "Face_pull.png",
+        "clasificacion": "14",
+        "numdificultad" : "3",
+        "descripcion" : "Hola"
+        
+    },
+
+    {
+        "id": 23,
+        "nombre": "Press militar",
+        "tipo": "Hombro",
+        "dificultad": "Alta",
+        "requiereMaterial": "Peso",
+        "imagen": "Press_militar.png",
+        "clasificacion": "15",
+        "numdificultad" : "4.5",
+        "descripcion" : "Hola"
+    },
+
+
+
+
+
+
+
+
+
+    
+    {
+        "id": 24,
+        "nombre": "Flexiones clásicas",
+        "tipo": "Pecho",
+        "dificultad": "Media",
+        "requiereMaterial": "Ninguno",
+        "imagen": "Flexiones.png",
+        "clasificacion": "16",
+        "numdificultad" : "3",
+        "descripcion" : "Hola"
+    },
+    {
+        "id": 25,
+        "nombre": "Flexiones amplias",
+        "tipo": "Pecho",
+        "dificultad": "Media",
+        "requiereMaterial": "Ninguno",
+        "imagen": "Flexiones_amplias.png",
+        "clasificacion": "17",
+        "numdificultad" : "3",
+        "descripcion" : "Hola"
+    },
+    {
+        "id": 26,
+        "nombre": "Flexiones clásicas goma",
+        "tipo": "Pecho",
+        "dificultad": "Alta",
+        "requiereMaterial": "Gomas",
+        "imagen": "Flexiones_goma.png",
+        "clasificacion": "16",
+        "numdificultad" : "4",
+        "descripcion" : "Hola"
+    },
+    {
+        "id": 27,
+        "nombre": "Flexiones amplias goma",
+        "tipo": "Pecho",
+        "dificultad": "Alta",
+        "requiereMaterial": "Gomas",
+        "imagen": "Flexiones_amplias_goma.png",
+        "clasificacion": "17",
+        "numdificultad" : "4",
+        "descripcion" : "Hola"
+    },
+    {
+        "id": 28,
+        "nombre": "Press pecho",
+        "tipo": "Pecho",
+        "dificultad": "Alta",
+        "requiereMaterial": "Peso",
+        "imagen": "Press_pecho.png",
+        "clasificacion": "18",
+        "numdificultad" : "4.5",
+        "descripcion" : "Hola"
+    },
+    {
+        "id": 29,
+        "nombre": "Flexiones declinadas",
+        "tipo": "Pecho",
+        "dificultad": "Media",
+        "requiereMaterial": "Ninguno",
+        "imagen": "Flexiones_declinadas.png",
+        "clasificacion": "19",
+        "numdificultad" : "3.5",
+        "descripcion" : "Hola"
+    },
+    {
+        "id": 30,
+        "nombre": "Flexiones inclinadas",
+        "tipo": "Pecho",
+        "dificultad": "Media",
+        "requiereMaterial": "Ninguno",
+        "imagen": "Flexiones_inclinadas.png",
+        "clasificacion": "20",
+        "numdificultad" : "3.5",
+        "descripcion" : "Hola"
+    },
+    {
+        "id": 31,
+        "nombre": "Aperturas con banda elástica",
+        "tipo": "Pecho",
+        "dificultad": "Baja",
+        "requiereMaterial": "Gomas",
+        "imagen": "Aperturas_banda_elastica.png",
+        "clasificacion": "21",
+        "numdificultad" : "1.5",
+        "descripcion" : "Hola"
+    },
+
+
+
+
+
+
+
+    {
+        "id": 32,
+        "nombre": "Crunch abdominal",
+        "tipo": "Abdomen",
+        "dificultad": "Media",
+        "requiereMaterial": "Ninguno",
+        "imagen": "Abdominales.png",
+        "clasificacion": "22",
+        "numdificultad" : "2",
+        "descripcion" : "Hola"
+    },
+    {
+        "id": 33,
+        "nombre": "Plancha abdominal",
+        "tipo": "Abdomen",
+        "dificultad": "Media",
+        "requiereMaterial": "Ninguno",
+        "imagen": "Plancha_normal.png",
+        "clasificacion": "23",
+        "numdificultad" : "2.5",
+        "descripcion" : "Hola"
+    },
+    {
+        "id": 34,
+        "nombre": "Aperturas V-ups",
+        "tipo": "Abdomen",
+        "dificultad": "Alta",
+        "requiereMaterial": "Ninguno",
+        "imagen": "V_ups.png",
+        "clasificacion": "24",
+        "numdificultad" : "4",
+        "descripcion" : "Hola"
+    },
+    {
+        "id": 35,
+        "nombre": "Plancha lateral",
+        "tipo": "Abdomen",
+        "dificultad": "Alta",
+        "requiereMaterial": "Ninguno",
+        "imagen": "Plancha_lateral.png",
+        "clasificacion": "25",
+        "numdificultad" : "4",
+        "descripcion" : "Hola"
+    },
+    {
+        "id": 36,
+        "nombre": "Elevaciones piernas",
+        "tipo": "Abdomen",
+        "dificultad": "Media",
+        "requiereMaterial": "Ninguno",
+        "imagen": "Elevaciones_piernas.png",
+        "clasificacion": "26",
+        "numdificultad" : "3",
+        "descripcion" : "Hola"
+    },
+    {
+        "id": 37,
+        "nombre": "Elevaciones piernas alternas",
+        "tipo": "Abdomen",
+        "dificultad": "Media",
+        "requiereMaterial": "Ninguno",
+        "imagen": "Elevaciones_piernas_alternas.png",
+        "clasificacion": "27",
+        "numdificultad" : "3",
+        "descripcion" : "Hola"
+    },
+     {
+        "id": 38,
+        "nombre": "Mountain climbers",
+        "tipo": "Abdomen",
+        "dificultad": "Media",
+        "requiereMaterial": "Ninguno",
+        "imagen": "Mountain_climbers.png",
+        "clasificacion": "28",
+        "numdificultad" : "3",
+        "descripcion" : "Hola"
+    },
+     {
+        "id": 39,
+        "nombre": "Plancha tocando hombros",
+        "tipo": "Abdomen",
+        "dificultad": "Media",
+        "requiereMaterial": "Ninguno",
+        "imagen": "Plancha_tocando_hombros.png",
+        "clasificacion": "29",
+        "numdificultad" : "3",
+        "descripcion" : "Hola"
+    },
+    {
+        "id": 40,
+        "nombre": "Plancha tocando rodillas",
+        "tipo": "Abdomen",
+        "dificultad": "Media",
+        "requiereMaterial": "Ninguno",
+        "imagen": "Plancha_tocando_rodillas.png",
+        "clasificacion": "30",
+        "numdificultad" : "3",
+        "descripcion" : "Hola"
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+     {
+        "id": 41,
+        "nombre": "Sentadilla estándar",
+        "tipo": "Pierna",
+        "dificultad": "Baja",
+        "requiereMaterial": "Ninguno",
+        "imagen": "Sentadilla.png",
+        "clasificacion": "31",
+        "numdificultad" : "1.5",
+        "descripcion" : "Hola"
+    },
+    {
+        "id": 42,
+        "nombre": "Sentadilla goma",
+        "tipo": "Pierna",
+        "dificultad": "Media",
+        "requiereMaterial": "Gomas",
+        "imagen": "Sentadilla_goma.png",
+        "clasificacion": "31",
+        "numdificultad" : "2.5",
+        "descripcion" : "Hola"
+    },
+    {
+        "id": 43,
+        "nombre": "Sentadilla peso",
+        "tipo": "Pierna",
+        "dificultad": "Alta",
+        "requiereMaterial": "Peso",
+        "imagen": "Sentadilla_peso.png",
+        "clasificacion": "31",
+        "numdificultad" : "4",
+        "descripcion" : "Hola"
+    },
+
+    {
+        "id": 44,
+        "nombre": "Peso muerto rumano estándar",
+        "tipo": "Pierna",
+        "dificultad": "Media",
+        "requiereMaterial": "Ninguno",
+        "imagen": "Peso_muerto_rumano.png",
+        "clasificacion": "32",
+        "numdificultad" : "3",
+        "descripcion" : "Hola"
+    },
+    {
+        "id": 45,
+        "nombre": "Peso muerto rumano peso",
+        "tipo": "Pierna",
+        "dificultad": "Alta",
+        "requiereMaterial": "Peso",
+        "imagen": "Peso_muerto_rumano_peso.png",
+        "clasificacion": "32",
+        "numdificultad" : "4",
+        "descripcion" : "Hola"
+    },
+    {
+        "id": 46,
+        "nombre": "Extension de gemelo",
+        "tipo": "Pierna",
+        "dificultad": "Baja",
+        "requiereMaterial": "Ninguno",
+        "imagen": "Extension_gemelo.png",
+        "clasificacion": "33",
+        "numdificultad" : "1.5",
+        "descripcion" : "Hola"
+    },
+    {
+        "id": 47,
+        "nombre": "Extension de gemelo peso",
+        "tipo": "Pierna",
+        "dificultad": "Media",
+        "requiereMaterial": "Peso",
+        "imagen": "Extension_gemelo_peso.png",
+        "clasificacion": "33",
+        "numdificultad" : "3.0",
+        "descripcion" : "Hola"
+    },
+    {
+        "id": 48,
+        "nombre": "Zancadas",
+        "tipo": "Pierna",
+        "dificultad": "Baja",
+        "requiereMaterial": "Ninguno",
+        "imagen": "Zancadas.png",
+        "clasificacion": "34",
+        "numdificultad" : "1.5",
+        "descripcion" : "Hola"
+    },
+    {
+        "id": 49,
+        "nombre": "Zancadas peso",
+        "tipo": "Pierna",
+        "dificultad": "Media",
+        "requiereMaterial": "Peso",
+        "imagen": "Zancadas_peso.png",
+        "clasificacion": "34",
+        "numdificultad" : "3.5",
+        "descripcion" : "Hola"
+    },
+
+    {
+        "id": 50,
+        "nombre": "Step-up",
+        "tipo": "Pierna",
+        "dificultad": "Baja",
+        "requiereMaterial": "Ninguno",
+        "imagen": "StepUp.png",
+        "clasificacion": "35",
+        "numdificultad" : "1.5",
+        "descripcion" : "Hola"
+    },
+    {
+        "id": 51,
+        "nombre": "Step-up peso",
+        "tipo": "Pierna",
+        "dificultad": "Media",
+        "requiereMaterial": "Peso",
+        "imagen": "StepUp_peso.png",
+        "clasificacion": "35",
+        "numdificultad" : "3",
+        "descripcion" : "Hola"
+    },
+
+     {
+        "id": 52,
+        "nombre": "Zancada lateral",
+        "tipo": "Pierna",
+        "dificultad": "Baja",
+        "requiereMaterial": "Ninguno",
+        "imagen": "Zancada_lateral.png",
+        "clasificacion": "36",
+        "numdificultad" : "1.5",
+        "descripcion" : "Hola"
+    },
+    
+    {
+        "id": 53,
+        "nombre": "Sentadilla isométrica",
+        "tipo": "Pierna",
+        "dificultad": "Media",
+        "requiereMaterial": "Ninguno",
+        "imagen": "Sentadilla_isometrica.png",
+        "clasificacion": "37",
+        "numdificultad" : "3.5",
+        "descripcion" : "Hola"
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    {
+        "id": 54,
+        "nombre": "Sentadilla búlgara estándar",
+        "tipo": "Glúteo",
+        "dificultad": "Media",
+        "requiereMaterial": "Ninguno",
+        "imagen": "Sentadilla_bulgara.png",
+        "clasificacion": "38",
+        "numdificultad" : "3",
+        "descripcion" : "Hola"
+    },
+    {
+        "id": 55,
+        "nombre": "Sentadilla búlgara peso",
+        "tipo": "Glúteo",
+        "dificultad": "Alta",
+        "requiereMaterial": "Peso",
+        "imagen": "Sentadilla_bulgara_peso.png",
+        "clasificacion": "38",
+        "numdificultad" : "4",
+        "descripcion" : "Hola"
+    },
+    {
+        "id": 56,
+        "nombre": "Hip trust",
+        "tipo": "Glúteo",
+        "dificultad": "Media",
+        "requiereMaterial": "Ninguno",
+        "imagen": "Hip_trust.png",
+        "clasificacion": "39",
+        "numdificultad" : "3",
+        "descripcion" : "Hola"
+    },
+    {
+        "id": 57,
+        "nombre": "Hip trust peso",
+        "tipo": "Glúteo",
+        "dificultad": "Alta",
+        "requiereMaterial": "Peso",
+        "imagen": "Hip_trust_peso.png",
+        "clasificacion": "39",
+        "numdificultad" : "4",
+        "descripcion" : "Hola"
+    },
+    {
+        "id": 58,
+        "nombre": "Puente glúteo",
+        "tipo": "Glúteo",
+        "dificultad": "Baja",
+        "requiereMaterial": "Ninguno",
+        "imagen": "Puente_gluteo.png",
+        "clasificacion": "40",
+        "numdificultad" : "1",
+        "descripcion" : "Hola"
+    },
+    {
+        "id": 59,
+        "nombre": "Puente glúteo peso",
+        "tipo": "Glúteo",
+        "dificultad": "Media",
+        "requiereMaterial": "Peso",
+        "imagen": "Puente_gluteo_peso.png",
+        "clasificacion": "40",
+        "numdificultad" : "2.5",
+        "descripcion" : "Hola"
+    },
+    {
+        "id": 60,
+        "nombre": "Puente glúteo goma",
+        "tipo": "Glúteo",
+        "dificultad": "Media",
+        "requiereMaterial": "Gomas",
+        "imagen": "Puente_gluteo_goma.png",
+        "clasificacion": "40",
+        "numdificultad" : "2.5",
+        "descripcion" : "Hola"
+    },
+    {
+        "id": 61,
+        "nombre": "Patada glúteo",
+        "tipo": "Glúteo",
+        "dificultad": "Baja",
+        "requiereMaterial": "Ninguno",
+        "imagen": "Patada_gluteo.png",
+        "clasificacion": "41",
+        "numdificultad" : "1",
+        "descripcion" : "Hola"
+    },
+    {
+        "id": 62,
+        "nombre": "Patada glúteo goma",
+        "tipo": "Glúteo",
+        "dificultad": "Media",
+        "requiereMaterial": "Gomas",
+        "imagen": "Patada_gluteo_goma.png",
+        "clasificacion": "41",
+        "numdificultad" : "2.5",
+        "descripcion" : "Hola"
+    },
+    {
+        "id": 63,
+        "nombre": "Monster walks",
+        "tipo": "Glúteo",
+        "dificultad": "Baja",
+        "requiereMaterial": "Ninguno",
+        "imagen": "Monster_walks.png",
+        "clasificacion": "42",
+        "numdificultad" : "1.5",
+        "descripcion" : "Hola"
+    },
+     {
+        "id": 64,
+        "nombre": "Monster walks goma",
+        "tipo": "Glúteo",
+        "dificultad": "Media",
+        "requiereMaterial": "Gomas",
+        "imagen": "Monster_walks_goma.png",
+        "clasificacion": "42",
+        "numdificultad" : "3",
+        "descripcion" : "Hola"
+    },
+
+
+
+
+
+
+     {
+        "id": 65,
+        "nombre": "Remo con goma",
+        "tipo": "Espalda alta",
+        "dificultad": "Media",
+        "requiereMaterial": "Gomas",
+        "imagen": "Remo_goma.png",
+        "clasificacion": "43",
+        "numdificultad" : "2.5",
+        "descripcion" : "Hola"
+    },
+    {
+        "id": 66,
+        "nombre": "Remo unilateral con goma",
+        "tipo": "Espalda alta",
+        "dificultad": "Media",
+        "requiereMaterial": "Gomas",
+        "imagen": "Remo_unilateral_goma.png",
+        "clasificacion": "44",
+        "numdificultad" : "2.5",
+        "descripcion" : "Hola"
+    },
+    {
+        "id": 67,
+        "nombre": "Remo unilateral con peso",
+        "tipo": "Espalda alta",
+        "dificultad": "Alta",
+        "requiereMaterial": "Peso",
+        "imagen": "Remo_unilateral_peso.png",
+        "clasificacion": "44",
+        "numdificultad" : "4",
+        "descripcion" : "Hola"
+    },
+    {
+        "id": 68,
+        "nombre": "Pull over con goma",
+        "tipo": "Espalda alta",
+        "dificultad": "Media",
+        "requiereMaterial": "Gomas",
+        "imagen": "Pull_over.png",
+        "clasificacion": "45",
+        "numdificultad" : "3.5",
+        "descripcion" : "Hola"
+    },
+    {
+        "id": 69,
+        "nombre": "Dominadas asistidas",
+        "tipo": "Espalda alta",
+        "dificultad": "Media",
+        "requiereMaterial": "Gomas",
+        "imagen": "Dominadas_goma.png",
+        "clasificacion": "46",
+        "numdificultad" : "3",
+        "descripcion" : "Hola"
+    },
+    {
+        "id": 70,
+        "nombre": "Dominadas",
+        "tipo": "Espalda alta",
+        "dificultad": "Alta",
+        "requiereMaterial": "Ninguno",
+        "imagen": "Dominadas.png",
+        "clasificacion": "46",
+        "numdificultad" : "4.5",
+        "descripcion" : "Hola"
+    },
+    {
+        "id": 71,
+        "nombre": "Dominadas Lastradas",
+        "tipo": "Espalda alta",
+        "dificultad": "Alta",
+        "requiereMaterial": "Peso",
+        "imagen": "Dominadas_lastradas.png",
+        "clasificacion": "46",
+        "numdificultad" : "5",
+        "descripcion" : "Hola"
+    },
+    {
+        "id": 72,
+        "nombre": "Trapecios",
+        "tipo": "Espalda alta",
+        "dificultad": "Baja",
+        "requiereMaterial": "Peso",
+        "imagen": "Trapecios.png",
+        "clasificacion": "47",
+        "numdificultad" : "1.5",
+        "descripcion" : "Hola"
+    },
+    {
+        "id": 73,
+        "nombre": "WYT",
+        "tipo": "Espalda alta",
+        "dificultad": "Media",
+        "requiereMaterial": "Peso",
+        "imagen": "WYT.png",
+        "clasificacion": "48",
+        "numdificultad" : "2.5",
+        "descripcion" : "Hola"
+    },
+    {
+        "id": 74,
+        "nombre": "Pull aparts goma",
+        "tipo": "Espalda alta",
+        "dificultad": "Baja",
+        "requiereMaterial": "Gomas",
+        "imagen": "Pull_aparts.png",
+        "clasificacion": "49",
+        "numdificultad" : "1.55",
+        "descripcion" : "Hola"
+    },
+
+
+
+
+    {
+        "id": 75,
+        "nombre": "Flexiones lumbares",
+        "tipo": "Espalda baja",
+        "dificultad": "Baja",
+        "requiereMaterial": "Ninguno",
+        "imagen": "Flexiones_lumbares.png",
+        "clasificacion": "50",
+        "numdificultad" : "1",
+        "descripcion" : "Hola"
+    },
+     {
+        "id": 76,
+        "nombre": "Swimmers",
+        "tipo": "Espalda baja",
+        "dificultad": "Baja",
+        "requiereMaterial": "Ninguno",
+        "imagen": "Swimmers.png",
+        "clasificacion": "51",
+        "numdificultad" : "1.5",
+        "descripcion" : "Hola"
+    },
+    {
+        "id": 77,
+        "nombre": "Bird Dog",
+        "tipo": "Espalda baja",
+        "dificultad": "Baja",
+        "requiereMaterial": "Ninguno",
+        "imagen": "Bird_dog.png",
+        "clasificacion": "52",
+        "numdificultad" : "1.5",
+        "descripcion" : "Hola"
+    },
+
+    {
+        "id": 78,
+        "nombre": "Cobra activa",
+        "tipo": "Espalda baja",
+        "dificultad": "Baja",
+        "requiereMaterial": "Ninguno",
+        "imagen": "Cobra_activa.png",
+        "clasificacion": "53",
+        "numdificultad" : "1",
+        "descripcion" : "Hola"
+    }
+
+
+
+
+
+    
+
+
+
+    
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  ]
+
+
+
+
+
+
+  
